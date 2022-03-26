@@ -1,0 +1,48 @@
+.headshot {
+    max-width: 1000rem;
+    max-height: 1000rem;
+    width: 350px;
+    height: 350px;
+    border: 0.5rem solid rgba(255, 255, 255, 0.2);
+    position: absolute;
+    top: 42%;
+    right: 52%;
+}
+
+#about {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.text {
+    font-family: 'Syne', sans-serif;
+}
+
+.full-name {
+    text-decoration: underline;
+}
+
+.last-name {
+    color: #a9aaab
+}
+
+.social-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: #495057;
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    margin-right: 1.5rem;
+}
+.social-icon:last-child {
+    margin-right: 0;
+}
+
+.social-icon:hover {
+    background-color: #;
+}
