@@ -2,6 +2,18 @@ body {
     background-color: #d6d0d3;
 }
 
+header {
+    display: block;
+    padding: 0 5%;
+    width: 100%;
+    position: absolute;
+    z-index: 1000;
+    background: #111;
+    height: 92px;
+    opacity: 1;
+    top: 0px;
+}
+
 .headshot {
     max-width: 1000rem;
     max-height: 1000rem;
